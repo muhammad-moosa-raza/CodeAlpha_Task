@@ -30,7 +30,9 @@ A confusion matrix showing true/false positives and negatives.
 A detailed classification report including precision, recall, and F1-score for each class.
 
 
-**Task 2 Disease Prediction Using Random Forest Classifier**
+
+
+**Task 2 : Disease Prediction Using Random Forest Classifier**
 
 
 This repository contains an implementation of a machine learning model to predict the likelihood of a disease based on symptoms, age, and smoking history. The project demonstrates the use of Random Forest Classifier, a robust ensemble learning technique, for binary classification and evaluates its performance using multiple metrics.
